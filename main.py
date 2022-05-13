@@ -18,7 +18,7 @@ with st.echo(code_location='below'):
     name = st.text_input("Your name", key="name", value="Anonymous")
     print_hello(name)
 
-    st.write("This is a test of connection between Pycharm ,Git, and Streamlit")
+    st.write("Please, now")
 
     """
     ## Добавим графики
