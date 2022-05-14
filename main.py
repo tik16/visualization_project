@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 import altair as alt
 import plotly.graph_objects as go
 import plotly_express as px
-from vega_datasets import data
 
 with st.echo(code_location='below'):
 
